@@ -4,6 +4,8 @@ En avancerad räntekalkylator med svenska skatteregler, byggd med React + TypeSc
 
 🔗 **Live Demo:** [https://ranta.moderncloud.se/](https://ranta.moderncloud.se/)
 
+> ⚠️ **Security Note:** Detta repository innehåller endast källkod för applikationen. Deployment scripts och Azure-konfiguration har exkluderats av säkerhetsskäl.
+
 ## ✨ Funktioner
 
 ### Huvudfunktioner
@@ -56,8 +58,8 @@ En avancerad räntekalkylator med svenska skatteregler, byggd med React + TypeSc
 
 ```bash
 # Klona repot
-git clone https://github.com/staffanbergvall/ranta-kalkylator.git
-cd ranta-kalkylator
+git clone https://github.com/staffanbergvall/ranta-calculator.git
+cd ranta-calculator
 
 # Installera dependencies
 npm install
